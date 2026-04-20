@@ -4,6 +4,7 @@ Emphasizes practical exercises and labs that reinforce topics from the separate 
 
 ## Repository Structure
 
+'''
 . <br>
 ├── Java/ <br>
 │   ├── Lab01 (Console Input & Output) <br>
@@ -15,3 +16,4 @@ Emphasizes practical exercises and labs that reinforce topics from the separate 
 │   ├── Lab07 (Collection - ArrayList) <br>
 │   └── Lab08 (Interface) <br>
 └── README.md <br>
+'''
