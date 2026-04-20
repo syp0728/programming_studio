@@ -1,4 +1,4 @@
-# Java - Lab03
+# Java - Lab04
 ## String
 
 J031. 회원가입 아이디 / 비번 입력받기<br>
