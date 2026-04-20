@@ -1,4 +1,4 @@
-# Java - Lab02
+# Java - Lab03
 ## Iteration (array)
 
 J021. 비만인 사람은 몇 명인가?<br>
