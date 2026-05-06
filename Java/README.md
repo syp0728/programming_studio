@@ -14,6 +14,7 @@
 │   ├── Lab05 (Class & Methods) 
 │   ├── Lab06 (Overriding & Overloading)
 │   ├── Lab07 (Collection - ArrayList) 
-│   └── Lab08 (Interface)
+│   ├── Lab08 (Interface)
+│   └── Project (CRUD)
 └── README.md 
 ```
