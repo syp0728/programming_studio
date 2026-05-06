@@ -133,11 +133,13 @@ public class TodoCRUD implements iCRUD {
 
     // 날짜 순서대로 정렬
     public void sortByDate() {
+
         Collections.sort(this.list, new TodoItemDateComparator());
     }
 
     // 거꾸로 정렬
     public void reverseList() {
+
         Collections.reverse(this.list);
     }
 }

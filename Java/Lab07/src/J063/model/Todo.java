@@ -8,9 +8,7 @@ public class Todo {
     private String category;
 
     // 할 일 제목만으로 생성된 생성자
-    public Todo(String title){
-        this.title = title;
-    }
+
 
     // 모든 할 일 정보를 포함하여 생성항 생성자
     public Todo(String title, String content, String date, String category){

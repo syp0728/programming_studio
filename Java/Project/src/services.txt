@@ -1,0 +1,4 @@
+Name         | Price      | Date         | Person   | Category
+Netflix      |         35 | 2026-05-15   | 4        | video
+Gemini       |         50 | 2026-05-05   | 5        | AI
+Apple Music  |         23 | 2026-04-30   | 1        | music
