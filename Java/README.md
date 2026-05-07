@@ -7,6 +7,7 @@
 ```
 . 
 ├── Java/ 
+│   ├── CodingTest (GenAI Management System - CRUD)
 │   ├── Lab01 (Console Input & Output)
 │   ├── Lab02 (Condition) 
 │   ├── Lab03 (Iteration - array)
