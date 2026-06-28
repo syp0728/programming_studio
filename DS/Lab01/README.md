@@ -1,4 +1,4 @@
-# DS - Lab10
+# DS - Lab01
 ## Console Input & Output (iostream)
 
 DS001. bmi 계산<br>
