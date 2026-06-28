@@ -18,29 +18,29 @@ Welcome to the comprehensive repository for **Data Structures (C++)** and **Java
 
 ## 📂 Repository Structure
 .
-├── DS/                                # Data Structures (C++ Implementation)
-│   ├── CodingTest                     # Evaluation codes and assessments
-│   ├── Lab01                          # Console Input & Output (iostream)
-│   ├── Lab02                          # Arrays, Pointers, and Class basics
-│   ├── Lab03,04                       # Advanced Classes & Array-based Stacks
-│   ├── Lab05,06                       # Linked List-based Stacks & Array-based Queues
-│   ├── Lab07,09                       # Linked List-based Queues & Binary Trees
-│   ├── Lab08                          # Sorting algorithms implementation
-│   └── Project                        # Comprehensive final DS Project
-│
-├── Java/                              # Java Programming (OOP & Application)
-│   ├── CodingTest                     # GenAI Management System (CRUD application)
-│   ├── Lab01                          # Console Input & Output basics
-│   ├── Lab02                          # Conditional statements
-│   ├── Lab03                          # Iteration statements and Array handling
-│   ├── Lab04                          # String manipulation and methods
-│   ├── Lab05                          # Classes, Objects, and Methods definition
-│   ├── Lab06                          # Polymorphism (Method Overriding & Overloading)
-│   ├── Lab07                          # Java Collection Framework (ArrayList)
-│   ├── Lab08                          # Interfaces and Abstraction
-│   └── Project                        # Final Application Project (CRUD-based System)
-│
-└── README.md                          # Repository Documentation
+├── DS/                                # Data Structures (C++ Implementation)<br>
+│   ├── CodingTest                     # Evaluation codes and assessments<br>
+│   ├── Lab01                          # Console Input & Output (iostream)<br>
+│   ├── Lab02                          # Arrays, Pointers, and Class basics<br>
+│   ├── Lab03,04                       # Advanced Classes & Array-based Stacks<br>
+│   ├── Lab05,06                       # Linked List-based Stacks & Array-based Queues<br>
+│   ├── Lab07,09                       # Linked List-based Queues & Binary Trees<br>
+│   ├── Lab08                          # Sorting algorithms implementation<br>
+│   └── Project                        # Comprehensive final DS Project<br>
+│<br>
+├── Java/                              # Java Programming (OOP & Application)<br>
+│   ├── CodingTest                     # GenAI Management System (CRUD application)<br>
+│   ├── Lab01                          # Console Input & Output basics<br>
+│   ├── Lab02                          # Conditional statements<br>
+│   ├── Lab03                          # Iteration statements and Array handling<br>
+│   ├── Lab04                          # String manipulation and methods<br>
+│   ├── Lab05                          # Classes, Objects, and Methods definition<br>
+│   ├── Lab06                          # Polymorphism (Method Overriding & Overloading)<br>
+│   ├── Lab07                          # Java Collection Framework (ArrayList)<br>
+│   ├── Lab08                          # Interfaces and Abstraction<br>
+│   └── Project                        # Final Application Project (CRUD-based System)<br>
+│<br>
+└── README.md                          # Repository Documentation<br>
 
 ---
 
